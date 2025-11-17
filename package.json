@@ -1,7 +1,7 @@
 {
-    "name": "Lipsie-Launcheur",
+    "name": "Lipsie-Launcher",
     "preductname": "Lipsie Launcher",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour Lipsie",
     "main": "src/app.js",
     "author": {
